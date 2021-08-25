@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite_Pattern", "Compos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade_Pattern", "Facade_Pattern\Facade_Pattern.csproj", "{013451F3-5BD7-4D1C-936C-CCDC506B5E36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer_Pattern", "Observer_Pattern\Observer_Pattern.csproj", "{7F76C74B-5104-4DAC-B919-3DCDF513BB84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,5 +88,17 @@ Global
 		{013451F3-5BD7-4D1C-936C-CCDC506B5E36}.Release|x64.Build.0 = Release|Any CPU
 		{013451F3-5BD7-4D1C-936C-CCDC506B5E36}.Release|x86.ActiveCfg = Release|Any CPU
 		{013451F3-5BD7-4D1C-936C-CCDC506B5E36}.Release|x86.Build.0 = Release|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Debug|x64.Build.0 = Debug|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Debug|x86.Build.0 = Debug|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Release|x64.ActiveCfg = Release|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Release|x64.Build.0 = Release|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Release|x86.ActiveCfg = Release|Any CPU
+		{7F76C74B-5104-4DAC-B919-3DCDF513BB84}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
